@@ -1,9 +1,9 @@
-## Descrição do Repositório: Histórico Escolar - Johnnatan Krause Ribeiro Moreno
+## Histórico Escolar - Johnnatan Krause Ribeiro Moreno
 
 Este repositório contém o histórico escolar consolidado de Johnnatan Krause Ribeiro Moreno, referente ao curso de Análise e Desenvolvimento de Sistemas da Descomplica Digital. O histórico abrange dois Registros Acadêmicos (RAs):
 
 *   **RA 2430030:** Período inicial do curso, com ingresso em 29/04/2024 por diploma.
-*   **RA 2515623:** RA atual, com ingresso em 07/01/2025 por diploma. A mudança de RA ocorreu em [inserir data da mudança].
+*   **RA 2515623:** RA atual, com ingresso em 07/01/2025 por diploma.
 
 **Disciplinas Cursadas e Notas:**
 
@@ -33,7 +33,7 @@ Este repositório contém o histórico escolar consolidado de Johnnatan Krause R
 
 **Observações:**
 
-*   As disciplinas listadas com status "pendente" ainda não foram cursadas ou concluídas.
+*   As disciplinas listadas com status "pendente" nos historicos em anexo neste repositorio, ainda não foram cursadas ou concluídas.
 *   Este repositório será atualizado conforme o progresso no curso.
 *   "Dispensado" significa que a matéria já foi validada e não preciso cursar novamente.
 *   A médias no meu histórico seguem o padrão de 0 a 10 e no caso do projeto de extensão é de A a D.
